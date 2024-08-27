@@ -1,0 +1,23 @@
+   Domain Name: IROTECH.COM
+   Registry Domain ID: 1839546021_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gabia.com
+   Registrar URL: http://www.gabia.com
+   Updated Date: 2018-09-20T07:50:33Z
+   Creation Date: 2013-12-18T02:54:14Z
+   Registry Expiry Date: 2027-12-18T02:54:14Z
+   Registrar: Gabia, Inc.
+   Registrar IANA ID: 244
+   Registrar Abuse Contact Email: abuse@gabia.com
+   Registrar Abuse Contact Phone: +82.2.829.3543
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.NAMESVR.NET
+   Name Server: NS2.NAMESVR.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2024-08-27T12:05:45Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. Thi

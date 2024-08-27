@@ -1,0 +1,22 @@
+   Domain Name: GITHUB.COM
+   Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2022-09-07T09:10:44Z
+   Creation Date: 2007-10-09T18:20:50Z
+   Registry Expiry Date: 2024-10-09T18:20:50Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: DNS1.P08.NSONE.NET
+   Name Server: DNS2.P08.NSONE.NET
+   Name Server: DNS3.P08.NSONE.NET
+   Name Server: DNS4.P08.NSONE.NET
+   Name Server: NS-1283.AWSDNS-32.ORG
+   Name Server: NS-1707.AWSDNS-21.CO.UK
+   Name Server: NS-421.AWSDNS-52.COM
+   Name Server: NS-52
