@@ -3,6 +3,8 @@
 Bu uygulama, kullanıcıların girdiği bir domain adı için Whois bilgilerini sorgulamak amacıyla geliştirilmiştir.
 Kullanıcılar,domain adını girdikten sonra ilgili Whois bilgilerini görüntüleyebilir ve bu bilgileri TXT dosyası olarak kaydedebilirler.
 
+Yapılışını ve Fyne'ı anlattığım Medium yazıma buradan ulaşabilirsiniz: https://medium.com/@uslanozan/go-fyne-nedir-ve-nasıl-kullanılır-go-ile-gui-yapmak-e66b416b25ab
+
 ![image](https://github.com/user-attachments/assets/59d68a37-9b45-4e4c-9dc3-b1e6269d1294)
 
 
